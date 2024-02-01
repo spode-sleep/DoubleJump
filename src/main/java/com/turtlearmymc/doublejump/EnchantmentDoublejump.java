@@ -22,6 +22,6 @@ public class EnchantmentDoublejump extends Enchantment {
     }
 
     public int getMaxLevel() {
-        return 3;
+        return 1;
     }
 }
